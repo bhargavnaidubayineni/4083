@@ -10,4 +10,8 @@ void main()
 	printf("the product of the numbers is:%d",e);
         f=a/b;
 	printf("the division of the numbers is:%d",f);
+	g=a%b;
+	printf("the reminder is :%d",g);
+             
 }
+
